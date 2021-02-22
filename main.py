@@ -100,5 +100,3 @@ def thanos(_, msg):
 
 
 app.run()
-
-print("Hello world ")
